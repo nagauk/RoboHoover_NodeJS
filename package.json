@@ -12,7 +12,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.0",
     "mocha": "^6.1.4",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "point-in-geopolygon": "^1.0.1"
   },
   "devDependencies": {
